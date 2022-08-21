@@ -1,4 +1,4 @@
-const array = [0,1,2,3,4,5,6,7,8,'A','B','C','D','E','F','a','b','c','d','e','f'];
+const array = [0,1,2,3,4,5,6,7,8,'A','B','C','D','E','F'];
 const btn = document.querySelector('.btn');
 const bgColor = document.querySelectorAll('.bg-color');
 const hexCode = document.querySelectorAll('.hex-code');
