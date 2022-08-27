@@ -11,7 +11,3 @@
 ![]()
 
 
-=======
-# Live Link:
-[Live](https://color-palette-week-1.vercel.app/)
->>>>>>> 05f55c06b9690d8a47cb2e7530d7271fb8fbd7b6
