@@ -5,7 +5,7 @@
 ## Reference Image:
 ![]()
 
-## Color Palette Images:
+## TODO List App Image:
 
 ![]()
 
